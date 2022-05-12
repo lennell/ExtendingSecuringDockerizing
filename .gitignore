@@ -26,3 +26,6 @@
 
 
 /.idea/*
+/explorecali/logs/myapp.log.2022-05-05.0.gz
+/explorecali/logs/myapp.log.2022-05-06.0.gz
+/logs/myapp.log.2022-05-06.0.gz
