@@ -66,3 +66,8 @@ or
 ``
 java  -Dspring.profiles.active=mysql -jar target/explorecali-2.0.0-SNAPSHOT.jar
 ``
+
+[//]: # (SELECT * FROM explorecali.flyway_schema_history;)
+
+[//]: # ()
+[//]: # (select user&#40;&#41;;)
